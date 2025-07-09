@@ -1,6 +1,6 @@
 # Hi! I’m Devin
 
-I’m an enthusiastic developer skilled in Web, App, Databases, and even more kinds of development. Whatever the concept may be, I guarantee I’m interested in it and trying to learn more.
+I’m an enthusiastic developer skilled in Web, App, Databases, and even more kinds of development. Whatever the concept may be, I guarantee I’d be interested in it and want to learn more.
 
 ## I’ve Developed With
 
